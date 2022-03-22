@@ -190,7 +190,7 @@ class: inverse, center, middle
 
 # Scope of assessment
 
-## Spatial and temporal scope &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
+## Spatial and temporal scope <!-- &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a> -->
 
 .pull-left2[
 #### Spatial extent
@@ -756,7 +756,7 @@ class: inverse, center, middle
 .pull-left2[
 - Generalized and varied intensity
 - Fluvial sector: intense and condensed 
-  - .font90[Quebec and south Île d'Orléan]
+  - .font90[Quebec and south Île d'Orléans]
   - .font90[Lake Saint-Pierre]
   - .font90[Seaway (Montréal - Trois-Rivières)]
 - Maritime sector: diffuse
